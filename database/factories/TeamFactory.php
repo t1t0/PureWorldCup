@@ -2,13 +2,13 @@
 
 namespace Database\Factories;
 
-use App\Models\Grupo;
+use App\Models\Team;
 use Illuminate\Database\Eloquent\Factories\Factory;
 
 /**
- * @extends Factory<Grupo>
+ * @extends Factory<Team>
  */
-class GrupoFactory extends Factory
+class TeamFactory extends Factory
 {
     /**
      * Define the model's default state.

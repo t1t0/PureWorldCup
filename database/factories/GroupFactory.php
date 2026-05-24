@@ -2,13 +2,13 @@
 
 namespace Database\Factories;
 
-use App\Models\Partido;
+use App\Models\Group;
 use Illuminate\Database\Eloquent\Factories\Factory;
 
 /**
- * @extends Factory<Partido>
+ * @extends Factory<Group>
  */
-class PartidoFactory extends Factory
+class GroupFactory extends Factory
 {
     /**
      * Define the model's default state.
